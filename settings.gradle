@@ -1,0 +1,2 @@
+include ':app', ':crash-breakpad'
+rootProject.name='ndk_breakpad'
